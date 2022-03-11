@@ -1,2 +1,2 @@
 # eternity-rls
-Public/Test eternity client releases
+Public/Test releases for Project Eternity
